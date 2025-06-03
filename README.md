@@ -6,16 +6,6 @@ This project is part of Harvard's [CS50x](https://cs50.harvard.edu/x/) course, c
 
 Prompt the user for a height (1–8), and print a right-aligned pyramid of bricks (`#`) like in Super Mario Bros.
 
-### Example:
-
-./ mario
-Height 5:
-    #
-   ##
-  ###
- ####
-#####
-
 ## 💻 What I Learned
 
 - 'For' and 'do-while' loops
